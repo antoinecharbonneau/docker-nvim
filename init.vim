@@ -8,6 +8,7 @@ Plug 'Vimjas/vim-python-pep8-indent'
 Plug 'numirias/semshi'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
